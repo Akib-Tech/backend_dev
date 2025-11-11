@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author" : "Taiwo Ibraheem Akinwumi",
 	"description": "This is a journey towards learning the nitty-gritty of backend development",
+	"keywords": ["Node Js","Beginners", "Backend","Freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -11,6 +12,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+		"url": "https://github.com/akib-tech/backend_dev"
 	}
 }
