@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author" : "Taiwo Ibraheem Akinwumi",
-
+	"description": "This is a journey towards learning the nitty-gritty of backend development",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
