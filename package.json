@@ -3,6 +3,8 @@
 	"author" : "Taiwo Ibraheem Akinwumi",
 	"description": "This is a journey towards learning the nitty-gritty of backend development",
 	"keywords": ["Node Js","Beginners", "Backend","Freecodecamp"],
+	"license" :"MIT",
+	"version" : "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
