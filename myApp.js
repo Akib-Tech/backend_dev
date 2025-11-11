@@ -3,7 +3,7 @@ let app = express();
 
 console.log("Hello world");
 
-app.post("/",function(req,res){
+app.get("/",function(req,res){
     res.send("You are welcome");
 })
 
